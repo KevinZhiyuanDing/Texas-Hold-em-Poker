@@ -6,6 +6,8 @@
 #import functions here
 import random
 
+# hello world
+
 #assign cards to value
 cardrank = {
     "A" : 14,
